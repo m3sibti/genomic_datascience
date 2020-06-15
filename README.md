@@ -1,2 +1,2 @@
 # Genomic Data Science
-This repository is related to DNA related deep learning work.
+This repository is related to DNA related Deep Learning work.
