@@ -1,0 +1,8 @@
+# link to a text file containig links of all website
+"https://nustedupk0-my.sharepoint.com/:t:/g/personal/smalik_mscse18_rcms_nust_edu_pk/EWa8FZcPR2tEuQ-R9HCUJOMBoXmW5HC-90yFk07rFYD5Ng?e=L5JLSZ&download=1"
+
+# link to positive motif files
+"https://nustedupk0-my.sharepoint.com/:u:/g/personal/smalik_mscse18_rcms_nust_edu_pk/EaP_gYusCEFOlbQBm3HH5xoB9384Jie2WF8fzhja_b06Cg?e=xIU6Q5&download=1"
+
+# link to negative motif files
+"https://nustedupk0-my.sharepoint.com/:u:/g/personal/smalik_mscse18_rcms_nust_edu_pk/EeGtIXbaFzBGgXFKl7oAuf0BDN4tOuIh3WdXx9kc1FhIdw?e=vQ3q69&download=1"
